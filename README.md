@@ -33,7 +33,7 @@ Downloaded the csv file from Kaggle.
 
 ## Data Snapshot
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (453)](https://user-images.githubusercontent.com/121576163/226862596-02c258f6-c8a6-4873-8c82-7e3b1552fbbc.png)
 
 ## Train Test Split
 
