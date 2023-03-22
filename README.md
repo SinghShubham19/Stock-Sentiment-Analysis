@@ -1,5 +1,5 @@
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (454)](https://user-images.githubusercontent.com/121576163/226862172-63ad1f42-1c1d-4058-9774-dc0d747d0e02.png)
 
 # Stock Sentiment Analysis Using News Headlines
 
