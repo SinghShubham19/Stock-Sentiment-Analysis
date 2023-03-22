@@ -134,7 +134,7 @@ gcv=GridSearchCV(model,param_grid=param,n_jobs=-1,scoring='accuracy')
 ```
 Thus obtained the final classification_report.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (455)](https://user-images.githubusercontent.com/121576163/226863756-ce03a147-7439-41c2-a9d6-057f16538acf.png)
 
 
 ## Further improvements:
