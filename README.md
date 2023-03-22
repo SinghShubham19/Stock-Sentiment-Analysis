@@ -119,7 +119,7 @@ models = ["lr_model", "nb_model", "svc_model", "rf_model"]
 Each model generated a report for both bag of words and tfidf embeddings.
 
 Proceeded with random forest and bag of words embedding. Its report is as follows.
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (456)](https://user-images.githubusercontent.com/121576163/226863483-ac2efe52-cd18-4621-8aa0-77703c174b66.png)
 
 ## Hyper-parameter tuning
 
